@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "987872169819",
+    "project_id": "smartbagg-49683",
+    "storage_bucket": "smartbagg-49683.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987872169819:android:b92a7455c2420a85a4547e",
+        "android_client_info": {
+          "package_name": "com.example.smartbag2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987872169819-0ni598naten5qjbf3vkc8kie3h5rha6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartbag2",
+            "certificate_hash": "1f730698bcafd6373a6e4adb79053269c8b14abf"
+          }
+        },
+        {
+          "client_id": "987872169819-sejuehhpia4qspihejhb7g73grr280a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJl7xWNT1Yg6694Gwy5J7TuvtbCBAJaYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987872169819-sejuehhpia4qspihejhb7g73grr280a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987872169819-7io3ooora6v2hkqi3fnuec5kvk8o0gm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartbag2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
